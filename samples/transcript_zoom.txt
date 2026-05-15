@@ -1,0 +1,67 @@
+Zoom Transcript
+Meeting: Utopia Studio — Founder Check-In Week 3
+Date: May 14, 2025  10:00 AM (GMT+3 Doha)
+Host: Sara Al-Farsi
+Meeting ID: 892 4671 3305
+
+00:00:03 Sara Al-Farsi: Okay I see everyone is here. Let me confirm recording is on. Good. Rami welcome to your week three check in. This is Ahmed, Noor, and myself. Let's go through your update and make sure everything is on track before G1.
+
+00:00:19 Rami Hassan: Thanks Sara. It's been a strong week. The biggest update is the discovery calls. I completed three of them this week.
+
+00:00:27 Sara Al-Farsi: Walk us through them.
+
+00:00:29 Rami Hassan: So two were with logistics operators in Qatar and one was with a supply chain director at a major retail group based in Riyadh. The central finding across all three was the same. Real-time cargo visibility during last-mile delivery doesn't exist in any reliable form in this market.
+
+00:00:48 Ahmed Khalil: Who were you speaking with specifically?
+
+00:00:51 Rami Hassan: The most valuable call was with Sarah Al-Mansouri. She's VP of Logistics at Agility Qatar. She shared that they lose approximately 15 percent of their pharmaceutical shipments annually to temperature breaks during delivery. The cost in spoilage alone is QAR 4.2 million per year. That's one company.
+
+00:01:11 Ahmed Khalil: Did she say what's causing the breaks? Is it driver behavior or equipment?
+
+00:01:16 Rami Hassan: Driver behavior mostly. The drivers have no visibility into cargo temperature during the route. By the time the break is detected at the warehouse scanner it's too late. The shipment is already rejected.
+
+00:01:27 Sara Al-Farsi: Did she express interest in being an early customer?
+
+00:01:31 Rami Hassan: Yes. She said if we can get alert latency under two minutes she'd commit 40 vehicles to a 90-day pilot on the Doha to Al Khor corridor. She also offered us warm introductions to Milaha and Qatar Cool. Both have the same problem. That offer was completely unprompted.
+
+00:01:49 Noor Malik: I want to pause on that for a second because that's actually a very unusual signal. Getting referrals on a discovery call before you have a product is a sign that the market really wants this solved. That's the story we should be telling publicly this week.
+
+00:02:04 Rami Hassan: Agreed. I'm comfortable being named. The more visible we are the better for hiring and pipeline.
+
+00:02:10 Sara Al-Farsi: Great. Noor put together a LinkedIn post draft today. Rami let's talk product. Where are you right now?
+
+00:02:19 Rami Hassan: Sensor firmware is mostly done. It's pushing temperature readings every 90 seconds. Driver mobile alert is working. The missing piece is automated rerouting. When we detect a temperature exceedance the system should automatically route the driver to the nearest certified cold storage facility. That logic isn't built yet.
+
+00:02:40 Ahmed Khalil: How long without help versus with help?
+
+00:02:43 Rami Hassan: With help, two weeks. Without help, five or six weeks minimum. And I can't afford five weeks with the Agility timeline. We also had a four-day delay last week because of a calibration issue at low temperatures that took longer than expected to debug.
+
+00:02:58 Sara Al-Farsi: Ahmed let's solve that. Can you pull together the two developers in our network with embedded systems background?
+
+00:03:05 Ahmed Khalil: I'll have a shortlist by Friday. And Rami since you mentioned timeline pressure — have you decided on the top-up?
+
+00:03:13 Rami Hassan: Yes I'm taking it. After the calibration setback and the developer gap it's clear I need the runway. Missing the Agility pilot window would be far more expensive than the dilution.
+
+00:03:23 Ahmed Khalil: That's the right decision given where you are. I'll prepare the paperwork this week. We can close it by next Wednesday.
+
+00:03:30 Sara Al-Farsi: Good. Rami one last thing. What does winning look like at the end of the pilot?
+
+00:03:37 Rami Hassan: Zero undetected temperature exceedances on the corridor. 40 vehicles, 120 runs per week. If we hit that Sarah has indicated Agility will move to a commercial contract before end of Q3. And that's the anchor that gets us the Milaha and Qatar Cool introductions.
+
+00:03:54 Noor Malik: Perfect. That's a complete narrative. I have everything I need for the content.
+
+00:03:59 Sara Al-Farsi: Great. Actions before we close. Ahmed is on the developer shortlist and the top-up paperwork by Wednesday. Rami is finishing rerouting and formalizing the Agility pilot structure. Noor is drafting the LinkedIn post today. G1 review is provisionally May 28th. Everyone good with that?
+
+00:04:16 Rami Hassan: Yes works for me.
+
+00:04:18 Ahmed Khalil: Good here.
+
+00:04:19 Noor Malik: All good.
+
+00:04:21 Sara Al-Farsi: Great session Rami. This is exactly the kind of week we want to see. See everyone on the stand-up tomorrow.
+
+00:04:28 Rami Hassan: Thanks all.
+
+---
+This transcript was automatically generated by Zoom.
+Accuracy may vary. Please review before use.

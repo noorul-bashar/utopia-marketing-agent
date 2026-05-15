@@ -1,0 +1,103 @@
+Google Meet Transcript
+Utopia Studio — Founder Check-In Week 3
+May 14, 2025
+Participants: Sara Al-Farsi, Rami Hassan, Ahmed Khalil, Noor Malik
+
+Sara Al-Farsi
+10:00 AM
+Recording has started. Rami, this is your week three check-in. Ahmed and Noor are both here. Go ahead with your update.
+
+Rami Hassan
+10:00 AM
+Thanks Sara. Big week. I finished three discovery calls — two in Qatar with logistics operators and one in Riyadh with a retail supply chain director. All three said the same thing: last-mile cargo visibility is broken and nobody has fixed it.
+
+Sara Al-Farsi
+10:01 AM
+What were the specific outcomes?
+
+Rami Hassan
+10:01 AM
+The best call was with Sarah Al-Mansouri at Agility Qatar. VP of Logistics. She told me they lose 15 percent of pharmaceutical shipments every year to temperature breaks during delivery. QAR 4.2 million a year in spoilage costs. One company. The Riyadh contact said their rejection rate at pharmacy endpoints is around 11 percent.
+
+Ahmed Khalil
+10:02 AM
+Any of them interested in being a customer?
+
+Rami Hassan
+10:02 AM
+Sarah from Agility said yes. If we get alert latency under two minutes end-to-end she'll put 40 vehicles on a 90-day pilot. Doha to Al Khor corridor. And she offered warm introductions to Milaha and Qatar Cool without me even asking.
+
+Noor Malik
+10:03 AM
+That is a genuinely rare thing to happen on a discovery call. Referrals before you have a product means real pull. That's this week's LinkedIn post.
+
+Rami Hassan
+10:03 AM
+I'm fine being named. More visibility is better right now.
+
+Sara Al-Farsi
+10:04 AM
+Good. Noor please draft something today. Rami, product update.
+
+Rami Hassan
+10:04 AM
+Sensor firmware is mostly done. Temperature readings pushing every 90 seconds. Driver alert is working. The gap is automated rerouting — when a temperature breach is detected the system needs to find the nearest certified cold storage facility and update the driver route. That logic isn't built.
+
+Ahmed Khalil
+10:05 AM
+How long to build it?
+
+Rami Hassan
+10:05 AM
+Two weeks with a developer. Alone, probably five or six weeks. We also had a four-day setback from a calibration problem at low temperatures last week. Hardware took longer than expected overall.
+
+Sara Al-Farsi
+10:06 AM
+Ahmed, can you find someone from the network by Friday?
+
+Ahmed Khalil
+10:06 AM
+Yes. I'll have two or three names by Friday. And Rami — the top-up. Decision made?
+
+Rami Hassan
+10:07 AM
+Taking it. The delays made the decision easy. I need the runway to move fast and hit the Agility window. Missing that would cost more than the dilution.
+
+Ahmed Khalil
+10:07 AM
+Correct call. I'll have the paperwork ready this week. We can close by Wednesday.
+
+Sara Al-Farsi
+10:08 AM
+Good. Rami what does the pilot need to achieve?
+
+Rami Hassan
+10:08 AM
+Zero undetected temperature exceedances. 40 vehicles, 120 runs per week for 90 days on the Doha-Al Khor corridor. If we hit that Sarah said Agility moves to a commercial contract before Q3 closes. That contract is the anchor for the two other introductions.
+
+Noor Malik
+10:09 AM
+I have everything I need. Specific numbers, specific goal, real customer name. This is good content.
+
+Sara Al-Farsi
+10:09 AM
+Actions to close. Ahmed — developer names by Friday, top-up closed by Wednesday. Rami — rerouting logic done, Agility pilot locked. Noor — LinkedIn post draft today. G1 review is May 28. All confirmed?
+
+Rami Hassan
+10:10 AM
+Confirmed.
+
+Ahmed Khalil
+10:10 AM
+Yes.
+
+Noor Malik
+10:10 AM
+Done.
+
+Sara Al-Farsi
+10:10 AM
+Good work this week Rami. This is exactly what week three should look like. See everyone tomorrow on the stand-up.
+
+---
+Transcript by Google Meet

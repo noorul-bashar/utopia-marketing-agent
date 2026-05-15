@@ -1,0 +1,53 @@
+Utopia Studio — Weekly Portfolio Review
+Date: May 12, 2025
+Attendees: Sara (Managing Director), Khalid (Head of Operations), Nour (Fellowship Lead), Tariq (Venture Builder)
+
+---
+
+Sara: Alright let's get started. I want to cover three things today — Cohort 3 results, the Fintech venture, and the investor dinner prep. Khalid, kick us off.
+
+Khalid: Sure. So Cohort 3 officially wrapped last Thursday. We had 8 fellows complete the program. Six out of eight launched MVPs — that's up from four in Cohort 2. Two of the MVPs are already generating revenue. Layla's edtech platform hit 200 paying users in the first two weeks. And Faris's logistics tool signed its first B2B contract — a small one, but still, it's real revenue.
+
+Sara: That's genuinely exciting. Layla's 200 users in two weeks is remarkable. We should be talking about this publicly.
+
+Nour: Agreed. And from the fellowship side, the average NPS score from fellows was 72, which is really strong. The main feedback was that they wanted more access to investors earlier in the program. We're going to build that into Cohort 4 from week one.
+
+Sara: Good. Let's make that structural, not optional. Khalid, can you own the redesign of the week-one curriculum to include at least two investor sessions?
+
+Khalid: Yes, I'll have a proposal by next Friday.
+
+Sara: Perfect. Now the Fintech venture — Tariq, where are we?
+
+Tariq: We're close. The MVP is complete, we've run 40 user interviews. The core insight is that SMEs in Qatar are spending an average of 11 hours per month on manual expense reconciliation. Our tool cuts that to under 30 minutes. We're targeting a soft launch in July. We have three design partners lined up — two mid-sized trading companies and one construction firm.
+
+Sara: Eleven hours down to thirty minutes is a killer stat. That's the headline for everything. Have we validated willingness to pay?
+
+Tariq: Yes — we asked directly. 28 out of 40 said they'd pay between 150 and 300 QAR per month. Average expected price point is around 200 QAR.
+
+Sara: That's solid signal. Okay decisions — we greenlight the July soft launch. Tariq, you need a proper landing page and a waitlist running by June 1st. And let's make sure we capture those 28 warm leads now before they go cold.
+
+Tariq: Agreed, I'll start outreach this week.
+
+Nour: One thing I want to flag — we're struggling with the fellowship alumni network. We have 40+ alumni now and no real system to stay in touch. People are falling off. We're losing potential co-founders and operators.
+
+Sara: That's a real problem. Let's not pretend it's fine. Khalid, can we look at a lightweight CRM or even just a structured WhatsApp group with monthly check-ins?
+
+Khalid: I'll research options and come back with a recommendation by end of month. Honestly it might just be a well-run Notion database and a monthly newsletter at first.
+
+Sara: Fine, start simple. The investor dinner — Nour, update?
+
+Nour: We have 14 confirmed. Mix of regional VCs, family offices, and two angels who came through the QFC network. The dinner is June 5th at the Four Seasons. We'll do a 15-minute showcase of Cohort 3's best MVPs — Layla and Faris presenting — followed by a panel.
+
+Sara: I want Tariq to present the Fintech thesis too. Three presenters, keep it tight, 5 minutes each max. Prep them properly.
+
+Tariq: Works for me.
+
+Sara: Any blockers or risks I need to know about?
+
+Nour: Budget for the investor dinner is running about 15% over what we projected. It's not critical but worth flagging.
+
+Khalid: And we still don't have a confirmed venue for Cohort 4 onboarding week. The original space fell through. I'm looking at two alternatives but nothing locked yet.
+
+Sara: Okay — Khalid, venue is a priority, resolve that by EOW. Nour, get me a breakdown of the dinner budget overage by tomorrow.
+
+Alright, good session. To summarize: six MVPs launched, two generating revenue, Fintech greenlit for July, investor dinner on track for June 5th. Main actions — Khalid on curriculum redesign and venue, Tariq on landing page and warm leads, Nour on budget breakdown. See everyone Thursday.
